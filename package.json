@@ -1,0 +1,23 @@
+{
+  "name": "express-serve-folder",
+  "version": "1.0.0",
+  "description": "express-serve-folder",
+  "main": "build/index.html",
+  "scripts": {
+    "start": "gulp; node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ProjectSunday/express-serve-folder.git"
+  },
+  "author": "Project Sunday",
+  "license": "ISC",
+  "homepage": "https://github.com/ProjectSunday/express-serve-folder",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-newer": "^1.1.0"
+  }
+}
