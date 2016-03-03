@@ -14,7 +14,9 @@
   "license": "ISC",
   "homepage": "https://github.com/ProjectSunday/express-serve-folder",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "file-system": "^2.2.1",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
