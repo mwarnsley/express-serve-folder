@@ -4,7 +4,7 @@
   "description": "express-serve-folder",
   "main": "build/index.html",
   "scripts": {
-    "start": "gulp; node app.js"
+    "start": "gulp & node app.js"
   },
   "repository": {
     "type": "git",
